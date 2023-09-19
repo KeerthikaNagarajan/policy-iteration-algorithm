@@ -74,7 +74,16 @@ def policy_iteration(P, gamma=1.0,theta=1e-10):
   return V,pi
 ```
 ## OUTPUT:
+### Optimal Policy:
+![i](https://github.com/KeerthikaNagarajan/policy-iteration-algorithm/assets/93427089/3cb0c933-c2b9-48bf-b5bd-83cb002b2f7d)
+
+
+### Optimal Value Function:
+![ii](https://github.com/KeerthikaNagarajan/policy-iteration-algorithm/assets/93427089/c7090226-c61c-4cca-b90e-c15a867df00f)
+
+### Success Rate for Optimal Policy:
+![iii](https://github.com/KeerthikaNagarajan/policy-iteration-algorithm/assets/93427089/cd2e1548-c842-48bc-9e60-f41acd5d0c4f)
 
 ## RESULT:
 
-Write your result here
+Thus, a program is developed to perform policy iteration for the given MDP.
